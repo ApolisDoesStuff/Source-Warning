@@ -16,3 +16,7 @@ This decomp is no where near finished, and might never be finished. Landfall mig
 * Assets are mostly extracted, sounds seem to be blank (may be fixed with unity) and some scenes seem very small or broken.
 ? I havent tested the scenes yet.
 The current decomp isnt moddable due to it not being compilable or anywere finished with scripts.
+
+
+CURRENT UPDATE:
+I have lost all of the source warning files. And as a result need to recreate. The entire decomp. But i am working on it.
